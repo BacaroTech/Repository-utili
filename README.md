@@ -1,32 +1,48 @@
 # RepositoryUtili
-Dalla nostra serie di video, che pubblichiamo sui diversi, dove parliamo delle repository più utili che troviamo su GitHub, abbiamo deciso di crearo una repostory dove andiamo a rccoglierle tutte e fornirgli una breve descrizione
+Dalla nostra serie di video, che pubblichiamo su diverse piattaforme, in cui parliamo delle repository più utili che troviamo su GitHub, abbiamo deciso di creare una repository dove raccoglierle tutte e fornire una breve descrizione per ciascuna.
 
-## Free Code Camp
-Oltre ad avere un canale youtube ricco di contenuti, guide e approfondimenti per tutti gli sviluppatori, il team di Free Code Camp ha una propria repository dove vanno ad inserire tutti i contenuti che creano sui diversi social. Vai a darci un occhio! 
+## EP1: Free Code Camp
+Oltre ad avere un canale YouTube ricco di contenuti, guide e approfondimenti per tutti gli sviluppatori, il team di Free Code Camp ha una propria repository dove inseriscono tutti i contenuti creati sui diversi social. Vai a darci un'occhiata!
 
 Link alla repo : [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp) 
 
-## Coding Interview University
-Questa repo offre un elenco di argomenti di studio per diventare un ingegnere del software. Il protagonista e scrittore di questo software, john washam, dopo aver seguito questo piano di studi, è riuscito ad essere assunto come software developer presso Amazon! Questa è la lista delle cose da sapere per arrivare a puntare a delle posizioni del genere. Vai a darci un occhio!
+## EP2: Coding Interview University
+Questa repository offre un elenco di argomenti di studio per diventare un ingegnere del software. Il creatore di questo piano di studi, John Washam, dopo aver seguito questo percorso, è riuscito a farsi assumere come sviluppatore presso Amazon! Questa è la lista delle cose da sapere per puntare a posizioni simili. Vai a darci un'occhiata!
 
 Link alla repo : [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-## Free For Dev
-A tutti è succeso almeno una volta di voler assolutamente un software ma non volerlo comprare. Questa repository offre molti software sostitutivi gratuti che offronto le stesse funzionalità dei corrispettivi a pagamento, con delle naturali limitazioni. Vai a darci un occhio! 
+## EP3: Free For Dev
+A tutti è capitato almeno una volta di volere assolutamente un software senza volerlo comprare. Questa repository offre molti software sostitutivi gratuiti che offrono le stesse funzionalità dei corrispettivi a pagamento, con alcune limitazioni naturali. Vai a darci un'occhiata!
 
 Link alla repo : [Free For Dev](https://github.com/ripienaar/free-for-dev)
 
-## Free Programming Books
-Se sei un amante della lettura e sei alla ricerca di nuove informazioni prova a dare un occhio a questa repo dove troverai molti libri e video-corsi in diverse lingue, compreso l'italiano!
+## EP4: Free Programming Books
+Se sei un amante della lettura e sei alla ricerca di nuove informazioni, prova a dare un'occhiata a questa repository dove troverai molti libri e video-corsi in diverse lingue, compreso l'italiano!
 
 Link alla repo : [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-## Public Api
-Se stai creando un progetto e hai bisgono di un API gratuita dai un occhio a questa repository GitHub, dove troverai molte API pubbliche, divise per molte categorie e per ogni API sono segnate diverse informazioni come HTTP, CORS e Auth Token necessario o meno. Vai a darci un occhio!  
+## EP5: Public Api
+Se stai creando un progetto e hai bisogno di un'API gratuita, dai un'occhiata a questa repository GitHub, dove troverai molte API pubbliche, divise per categorie. Per ogni API sono indicate diverse informazioni come HTTP, CORS e se è necessario un Auth Token. Vai a darci un'occhiata! 
 
 Link alla repo : [Public Api](https://github.com/public-apis/public-apis)
 
-## Developer Roadmap
-Se pensi di aver perso la strada strada durante il tuo studio oppure non sai da dove partire per studiare una nuova tecnologia oppure un nuovo ramo di una tecnologia che già conosci allora questa repository può fare a caso tuo. Vai a darci un occhio! 
+## EP6: Developer Roadmap
+Se pensi di aver perso la strada durante il tuo studio o non sai da dove iniziare per studiare una nuova tecnologia o un nuovo ramo di una tecnologia che già conosci, allora questa repository può fare al caso tuo. Vai a darci un'occhiata!
 
 Link alla repo : [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+## EP7: system-design-primer
+Se stai cercando una repository che ti fornisca tutte le indicazioni per costruire un'applicazione scalabile e mantenibile, allora questa repository fa proprio al caso tuo. Vai a darci un'occhiata! 
+
+Link alla repo : [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+## EP8: build-your-own-x
+Se anche tu, come noi, soffri della sindrome del foglio bianco e vorresti fare qualcosa di folle, come ricreare Docker o altro, ma non sai da dove iniziare, questa repository raccoglie le diverse risorse gratuite che ti permetteranno di creare il tuo Docker o simili. Vai a darci un'occhiata!
+
+Link alla repo : [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
+## EP9: AirBNB Javascript
+Se sei all'inizio del tuo viaggio nello studio della programmazione frontend e non riesci a trovare una fonte affidabile per imparare JavaScript nel migliore dei modi, allora sfrutta la repository degli sviluppatori di Airbnb. Vai a darci un'occhiata! 
+
+Link alla repo : [AirBNB Javascript](https://github.com/airbnb/javascript)
+
