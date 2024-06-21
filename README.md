@@ -46,3 +46,7 @@ Se sei all'inizio del tuo viaggio nello studio della programmazione frontend e n
 
 Link alla repo : [AirBNB Javascript](https://github.com/airbnb/javascript)
 
+## EP10: gpt computer assistant
+La repository in questione offre una soluzione completa per utilizzare ChatGPT direttamente sul tuo PC, tutto quanto basato sul fantastico Python. Vai a darci un'occhiata! 
+Link alla repo : [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant)
+
