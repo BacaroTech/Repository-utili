@@ -51,3 +51,10 @@ La repository in questione offre una soluzione completa per utilizzare ChatGPT d
 
 Link alla repo : [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant)
 
+## Social e Contatti
+- 🌳 [Link Tree Homemade](https://bacarotech.github.io/)
+- 📷 [Instagram](https://www.instagram.com/bacarotech23/)
+- 🎵 [TikTok](https://www.tiktok.com/@bacarotech)
+- 🎥 [Youtube](https://www.youtube.com/@Bacarotech)
+- 📫 Email: **bacarotech@gmail.com**
+
