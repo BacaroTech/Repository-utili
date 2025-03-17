@@ -116,6 +116,20 @@ Un progetto sperimentale per scoprire come avere un backend gratuito su Azure.
 
 ---
 
+## 🍱 EP15: Fullstack Basic Starter  
+**Descrizione:**  
+Un piccolo progetto che permette alle persone di approcciare al mondo del full stack developer web. 
+
+🔗 [Fullstack Basic Starter](https://github.com/AndreaGiulianini/fullstack_basic_starter)
+
+---
+
+## 🧰 EP16: Bacaro-tech-gym  
+**Descrizione:**  
+Un nostro prodotto che vi aiuterà con leet code e lo studio di algoritmi e strutture dati.
+
+🔗 [Bacaro Tech Gym](https://github.com/BacaroTech/Bacaro-tech-gym)
+
 🎥 Scopri queste risorse e condividi il tuo feedback! 🚀
 ## Social e Contatti
 - 🌳 [Link Tree Homemade](https://bacarotech.github.io/)
