@@ -130,6 +130,24 @@ Un nostro prodotto che vi aiuterà con leet code e lo studio di algoritmi e stru
 
 🔗 [Bacaro Tech Gym](https://github.com/BacaroTech/Bacaro-tech-gym)
 
+---
+
+## EP17: wsl-vpnkit
+**Descrizione:**  
+Repository fondamentale se state lavorando con una WSL e sul vostro computer windows avete una vpn. Infatti, in questa casistica, la VPN di windows potrebbe bloccare
+le connessioni in uscita della vostra WSL, quindi non potete andare in rete. Grazie a questo piccolo programmino potete risolvere il problema all'istante.
+
+[WSL WPNKIT](https://github.com/sakai135/wsl-vpnkit)
+
+---
+
+## EP18: computer-science
+**Descrizione:**  
+Volete accedere a del materiale di alto livello per imparare o approfondire al meglio le vostre conoscenze del mondo della compuer-science e non solo? Allora le repository
+offerte dall'OSSU(Open Source Society University) fa per te. In questo caso vi riportiamo quella rialtiva al computer-science, ma ne potete trovare diverse nel loro profilo github.
+
+[OSSU computer-science](https://github.com/ossu/computer-science)
+
 🎥 Scopri queste risorse e condividi il tuo feedback! 🚀
 ## Social e Contatti
 - 🌳 [Link Tree Homemade](https://bacarotech.github.io/)
