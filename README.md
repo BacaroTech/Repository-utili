@@ -1,12 +1,13 @@
 # Repository Utili 🎯
 
-In questa serie, raccogliamo le repository più utili trovate su GitHub e le presentiamo nei nostri video pubblicati su diverse piattaforme. Per facilitarne la consultazione, abbiamo creato questa raccolta dove troverai tutte le segnalazioni con una breve descrizione per ciascuna.
+In questa serie raccogliamo le repository più interessanti e utili trovate su GitHub e ve le presentiamo nei nostri video pubblicati su diverse piattaforme.
+Per semplificarne la consultazione, abbiamo creato questa raccolta con tutte le segnalazioni, ognuna accompagnata da una breve descrizione.
 
 ---
 
 ## 📚 EP1: Free Code Camp  
 **Descrizione:**  
-Free Code Camp è noto per il suo canale YouTube ricco di contenuti e guide per sviluppatori di tutti i livelli. La loro repository raccoglie tutti i materiali creati per diverse piattaforme social.  
+Oltre al famosissimo canale YouTube, Free Code Camp mette a disposizione una repository con tantissime risorse per sviluppatori di ogni livello, raccolte da tutte le loro piattaforme. 
 
 🔗 [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -14,7 +15,7 @@ Free Code Camp è noto per il suo canale YouTube ricco di contenuti e guide per 
 
 ## 🏆 EP2: Coding Interview University  
 **Descrizione:**  
-Un piano di studio creato da John Washam per diventare ingegnere del software. Seguendo questo percorso, l'autore è stato assunto da Amazon! Perfetto per chi vuole prepararsi per ruoli di alto livello nel settore tech.  
+Un piano di studio creato da John Washam per diventare ingegnere software. Seguendolo, l’autore è stato assunto da Amazon! Perfetto per chi vuole prepararsi a colloqui e ruoli di alto livello.  
 
 🔗 [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
@@ -22,7 +23,7 @@ Un piano di studio creato da John Washam per diventare ingegnere del software. S
 
 ## 💻 EP3: Free For Dev  
 **Descrizione:**  
-Una raccolta di software gratuiti che offrono funzionalità simili ai loro corrispettivi a pagamento. Ideale per chi cerca alternative gratuite con poche limitazioni.  
+Una raccolta di strumenti e software gratuiti con funzionalità paragonabili alle versioni a pagamento. L’ideale per chi vuole lavorare senza vincoli economici.
 
 🔗 [Free For Dev](https://github.com/ripienaar/free-for-dev)
 
@@ -30,7 +31,7 @@ Una raccolta di software gratuiti che offrono funzionalità simili ai loro corri
 
 ## 📖 EP4: Free Programming Books  
 **Descrizione:**  
-Se ami leggere e vuoi espandere le tue conoscenze, questa repository offre una vasta raccolta di libri e video-corsi in diverse lingue, incluso l'italiano.  
+Una vera e propria biblioteca open source di libri e videocorsi di programmazione in tante lingue, italiano incluso. Quindi non hai scuse :)
 
 🔗 [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
@@ -38,7 +39,7 @@ Se ami leggere e vuoi espandere le tue conoscenze, questa repository offre una v
 
 ## 🔗 EP5: Public APIs  
 **Descrizione:**  
-Cerchi un'API gratuita per il tuo progetto? Questa repository offre una lista organizzata di API pubbliche con dettagli su autenticazione, supporto CORS e molto altro.  
+Se ti serve un’API gratuita per un progetto, questa repository raccoglie centinaia di API pubbliche con dettagli su autenticazione, CORS e altro.  
 
 🔗 [Public APIs](https://github.com/public-apis/public-apis)
 
@@ -46,7 +47,7 @@ Cerchi un'API gratuita per il tuo progetto? Questa repository offre una lista or
 
 ## 🗺️ EP6: Developer Roadmap  
 **Descrizione:**  
-Non sai da dove iniziare per imparare una nuova tecnologia? Questa repository ti guida passo dopo passo, aiutandoti a scegliere il percorso di studio più adatto.  
+Vuoi imparare una nuova tecnologia ma non sai da dove iniziare? Questa repository ti propone roadmap dettagliate e aggiornate per ogni percorso.
 
 🔗 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
@@ -54,7 +55,7 @@ Non sai da dove iniziare per imparare una nuova tecnologia? Questa repository ti
 
 ## ⚙️ EP7: System Design Primer  
 **Descrizione:**  
-Impara a progettare applicazioni scalabili e mantenibili con questa repository, una delle migliori risorse per il system design.  
+Una delle migliori risorse per imparare il system design e progettare applicazioni scalabili, robuste e facili da mantenere. 
 
 🔗 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
@@ -62,7 +63,7 @@ Impara a progettare applicazioni scalabili e mantenibili con questa repository, 
 
 ## 🛠️ EP8: Build Your Own X  
 **Descrizione:**  
-Hai mai desiderato costruire il tuo Docker o altre applicazioni da zero? Questa repository offre risorse per realizzare i tuoi progetti folli.  
+Vuoi creare il tuo Docker, compilatore o motore di gioco da zero? Qui trovi guide e risorse per costruire praticamente qualsiasi cosa.
 
 🔗 [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
 
@@ -70,7 +71,7 @@ Hai mai desiderato costruire il tuo Docker o altre applicazioni da zero? Questa 
 
 ## 📜 EP9: Airbnb JavaScript Style Guide  
 **Descrizione:**  
-Una guida autorevole per imparare JavaScript seguendo le best practice utilizzate dagli sviluppatori di Airbnb. Perfetta per chi è all'inizio del proprio percorso frontend.  
+La guida di riferimento alle best practice JavaScript adottate da Airbnb(quindi non stiamo parlando della pincopallino srl), uno standard de facto nel mondo frontend.
 
 🔗 [Airbnb JavaScript](https://github.com/airbnb/javascript)
 
@@ -78,7 +79,7 @@ Una guida autorevole per imparare JavaScript seguendo le best practice utilizzat
 
 ## 🤖 EP10: GPT Computer Assistant  
 **Descrizione:**  
-Vuoi integrare ChatGPT sul tuo computer? Questa repository offre una soluzione basata su Python per configurare un assistente virtuale personale.  
+Una repository in Python che ti permette di configurare ChatGPT come assistente virtuale direttamente sul tuo computer. Se hai presente che cos'è Lama di Meta allora sei già a metà dell'opera
 
 🔗 [GPT Computer Assistant](https://github.com/onuratakan/gpt-computer-assistant)
 
@@ -86,7 +87,7 @@ Vuoi integrare ChatGPT sul tuo computer? Questa repository offre una soluzione b
 
 ## 🧮 EP11: TheAlgorithms  
 **Descrizione:**  
-Un profilo GitHub ricco di repository utili per apprendere nuovi linguaggi di programmazione o approfondire quelli già conosciuti.  
+Un profilo GitHub dedicato agli algoritmi: tantissime repository per imparare nuovi linguaggi e approfondire quelli che già conosci.
 
 🔗 [TheAlgorithms](https://github.com/TheAlgorithms)
 
@@ -94,7 +95,7 @@ Un profilo GitHub ricco di repository utili per apprendere nuovi linguaggi di pr
 
 ## ✍️ EP12: Clean Code Course Code  
 **Descrizione:**  
-Una repository che include PDF riassuntivi sul concetto di clean code, essenziale per migliorare la qualità del proprio codice.  
+Materiale didattico e PDF riassuntivi sul clean code: risorsa essenziale per scrivere codice leggibile, manutenibile e di qualità.
 
 🔗 [Clean Code Course Code](https://github.com/academind/clean-code-course-code)
 
@@ -102,7 +103,7 @@ Una repository che include PDF riassuntivi sul concetto di clean code, essenzial
 
 ## 📷 EP13: Instatool  
 **Descrizione:**  
-Un tool Python per automatizzare la gestione dei profili seguiti su Instagram. Perfetto per chi vuole semplificare la rimozione dei contatti non più desiderati.  
+Uno strumento in Python per gestire in automatico i profili seguiti su Instagram e rimuovere facilmente contatti indesiderati.
 
 🔗 [Instatool](https://github.com/cyberpeppe/instatool)
 
@@ -110,7 +111,7 @@ Un tool Python per automatizzare la gestione dei profili seguiti su Instagram. P
 
 ## ☁️ EP14: Befree  
 **Descrizione:**  
-Un progetto sperimentale per scoprire come avere un backend gratuito su Azure.  
+Un progetto sperimentale che mostra come ottenere un backend gratuito su Azure.  
 
 🔗 [Befree](https://github.com/DottorLone/befree)
 
@@ -118,7 +119,7 @@ Un progetto sperimentale per scoprire come avere un backend gratuito su Azure.
 
 ## 🍱 EP15: Fullstack Basic Starter  
 **Descrizione:**  
-Un piccolo progetto che permette alle persone di approcciare al mondo del full stack developer web. 
+Un progetto di base per avvicinarsi al mondo dello sviluppo web full stack, tramite una piattaforma già impostata
 
 🔗 [Fullstack Basic Starter](https://github.com/AndreaGiulianini/fullstack_basic_starter)
 
@@ -126,25 +127,23 @@ Un piccolo progetto che permette alle persone di approcciare al mondo del full s
 
 ## 🧰 EP16: Bacaro-tech-gym  
 **Descrizione:**  
-Un nostro prodotto che vi aiuterà con leet code e lo studio di algoritmi e strutture dati.
+Un nostro progetto pensato per aiutarti a esercitarti con LeetCode, algoritmi, strutture dati e molto altro ancora(e sopratutto è made in BacaroTech)!
 
 🔗 [Bacaro Tech Gym](https://github.com/BacaroTech/Bacaro-tech-gym)
 
 ---
 
-## EP17: wsl-vpnkit
+## 🛡️ EP17: wsl-vpnkit
 **Descrizione:**  
-Repository fondamentale se state lavorando con una WSL e sul vostro computer windows avete una vpn. Infatti, in questa casistica, la VPN di windows potrebbe bloccare
-le connessioni in uscita della vostra WSL, quindi non potete andare in rete. Grazie a questo piccolo programmino potete risolvere il problema all'istante.
+Se usi WSL su Windows con una VPN attiva, potresti avere problemi di connessione. Questo tool risolve il problema in pochi secondi.
 
 [WSL WPNKIT](https://github.com/sakai135/wsl-vpnkit)
 
 ---
 
-## EP18: computer-science
+## 🏫 EP18: computer-science
 **Descrizione:**  
-Volete accedere a del materiale di alto livello per imparare o approfondire al meglio le vostre conoscenze del mondo della compuer-science e non solo? Allora le repository
-offerte dall'OSSU(Open Source Society University) fa per te. In questo caso vi riportiamo quella rialtiva al computer-science, ma ne potete trovare diverse nel loro profilo github.
+Vuoi accedere a un percorso di studio completo in stile universitario, ma open source e gratuito? L’OSSU (Open Source Society University) offre repository per diversi ambiti. Qui segnaliamo quella dedicata alla Computer Science.
 
 [OSSU computer-science](https://github.com/ossu/computer-science)
 
